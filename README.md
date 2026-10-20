@@ -5,8 +5,6 @@ A single Bash script (`run_all_tests_en.sh`) that stress-tests a 42 **Codexion**
 > ⚠️ **A green run is not a proof that your project is correct.**
 > The script checks what a program can check automatically. **You must read the logs** (see [Always check the logs](#-always-check-the-logs)).
 
-> This file is named `README_TESTER.md` on purpose: do **not** rename it to `README.md` inside your project, it would overwrite your project's README (which the script also checks).
-
 ---
 
 ## Requirements
